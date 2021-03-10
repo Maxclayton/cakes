@@ -1,0 +1,79 @@
+.nav-bar {
+  width: 100%;
+  background-color: #FDF2F5;
+  padding-top: 1px;
+  height: 55px;
+  overflow: hidden;
+}
+
+.left-side {
+  float: left;
+  padding-top: 5px;
+  margin-left: 10px;
+  height: 55px;
+}
+
+.right-side {
+  float: right;
+  padding-top: 17px;
+  height: 55px;
+}
+
+.right-side2 {
+  float: right;
+  padding-top: 17px;
+  height: 55px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.pic-holder {
+  display: grid;
+  height: 100%;
+  padding-top: 75px;
+}
+
+.center-fit {
+  max-width: 100%;
+  max-height: 100vh;
+  margin: auto;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+}
+
+.landing-button {
+    margin: 0;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: #9A0337;
+    height: 70px;
+    width: 170px;
+    border-radius: 22px;
+    /* opacity: 85%; */
+    color: white;
+    border: none;
+    font-size: 30px;
+}
+
+.cake-logo {
+    height: 40px;
+}
+
+html {
+    background-color: #FC5679;
+}
+
+.how-to{
+    width: 100%;
+    text-align: center;
+    padding-top: 60px;
+}
