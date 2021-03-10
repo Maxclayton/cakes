@@ -18,16 +18,16 @@ class Landing extends Component {
           />
         
         </div>
-        <div className="button-holder">
-        <button className="landing-button">Order Now</button>
-        {/* <h1 className="landing-button">Landingg Page</h1> */}
-        </div>
+
       </div>
+      <h1 className="how-title">How to Order</h1>
       <div className="how-to">
-        <p>How to Order</p>
-        <p>How to Order</p>
-        <p>How to Order</p>
-        <p>How to Order</p>
+        <p style={{ paddingBottom: "50px"}}>How to Order</p>
+        <p style={{ paddingBottom: "50px"}}>How to Order</p>
+        <p style={{ paddingBottom: "50px"}}>How to Order</p>
+        <p style={{ paddingBottom: "50px"}}>How to Order</p>
+        <button className="landing-button">Order Now!</button>
+        
       </div>
       </div>
     )
