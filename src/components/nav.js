@@ -12,7 +12,8 @@ class Nav extends Component {
       <div className="nav-bar">
             
            
-            <Link to="/" style={{ textDecoration: "none", color: "black"}} className="left-side">  <img
+            <Link to="/" style={{ textDecoration: "none", color: "black"}} className="left-side"> 
+             <img
             src={Logo}
             alt="cake"
             className="cake-logo"

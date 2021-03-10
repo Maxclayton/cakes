@@ -54,7 +54,6 @@
     height: 70px;
     width: 170px;
     border-radius: 22px;
-    opacity: 85%;
     color: white;
     border: none;
     font-size: 30px;
@@ -81,4 +80,8 @@ html {
   padding-top: 60px;
   font-size: 50px;
   color: white;
+}
+
+.each-slide {
+  text-align: center;
 }
