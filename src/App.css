@@ -18,12 +18,16 @@
   float: right;
   padding-top: 17px;
   height: 55px;
+  font-family: 'BenchNine', sans-serif;
+font-family: 'Merriweather', serif;
 }
 
 .right-side2 {
   float: right;
   padding-top: 17px;
   height: 55px;
+  font-family: 'BenchNine', sans-serif;
+font-family: 'Merriweather', serif;
 }
 
 * {
@@ -51,12 +55,12 @@
 .landing-button {
 
     background-color: #9A0337;
-    height: 70px;
-    width: 170px;
+    height: 100px;
+    width: 200px;
     border-radius: 22px;
     color: white;
     border: none;
-    font-size: 30px;
+    font-size: 37px;
 }
 
 .cake-logo {
@@ -70,7 +74,7 @@ html {
 .how-to{
   width: 100%;
   text-align: center;
-  padding-top: 110px;
+  padding-top: 70px;
   padding-bottom: 30px;
 }
 
@@ -80,6 +84,8 @@ html {
   padding-top: 60px;
   font-size: 50px;
   color: white;
+  font-family: 'BenchNine', sans-serif;
+font-family: 'Merriweather', serif;
 }
 
 .each-slide {
