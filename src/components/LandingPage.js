@@ -16,17 +16,8 @@ class Landing extends Component {
         <h1 className="how-title">Custom Cakes and Cupcakes</h1>
 
         <div className="how-to">
-          <Link  
-            
-            to="/order"
-            style={{ textDecoration: "none", color: "white" }}
-          > 
-          
-          <button className="landing-button">
-           
-              Order Now
-           
-          </button>
+          <Link to="/order" style={{ textDecoration: "none", color: "white" }}>
+            <button className="landing-button">Order Now</button>
           </Link>
         </div>
       </div>

@@ -91,3 +91,86 @@ font-family: 'Merriweather', serif;
 .each-slide {
   text-align: center;
 }
+
+.form-container {
+  position: relative;
+  text-align: center;
+  padding-bottom: 40px;
+
+}
+
+.instructions {
+  width: 100%;
+  text-align: center;
+  line-height: 45px;
+  padding-top: 80px;
+padding-bottom: 60px;
+}
+
+.instructions-text {
+  margin-right: 30px;
+  margin-left: 30px;
+  font-family: 'BenchNine', sans-serif;
+  font-family: 'Merriweather', serif;
+}
+
+.order-title {
+  text-align: center;
+  padding-top: 80px;
+  color: white;
+  font-size: 90px;
+  font-family: 'BenchNine', sans-serif;
+  font-family: 'Merriweather', serif;
+}
+
+.name-box {
+  height: 40px;
+    border-radius: 10px;
+    border-color: black;
+    padding-left: 10px;
+    font-family: 'BenchNine', sans-serif;
+    font-family: 'Merriweather', serif;
+}
+
+.name-holder {
+  padding-bottom: 20px;
+}
+
+.email-box {
+  height: 40px;
+  border-radius: 10px;
+  border-color: black;
+  padding-left: 10px;
+  font-family: 'BenchNine', sans-serif;
+  font-family: 'Merriweather', serif;
+
+}
+
+.email-holder {
+  padding-bottom: 20px;
+}
+
+.msg-box {
+  border-radius: 10px;
+  border-color: black;
+  border-width: unset;
+  padding-left: 10px;
+  padding-top: 4px;
+  font-family: 'BenchNine', sans-serif;
+  font-family: 'Merriweather', serif;
+}
+
+.send-button {
+
+  background-color: #9A0337;
+  height: 100px;
+  width: 235px;
+  border-radius: 22px;
+  color: white;
+  border: none;
+  font-size: 30px;
+}
+
+.button-holder {
+  padding-top: 30px;
+}

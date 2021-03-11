@@ -23,7 +23,7 @@ class Nav extends Component {
        
           
             <Link to="/order" style={{ textDecoration: "none", color: "black", marginRight: "110px" }} className="right-side">Order Now</Link>
-            <Link to="/gallery" style={{ textDecoration: "none", color: "black", marginRight: "-158px"  }} className="right-side2">Gallery</Link>
+            <Link to="/pricing" style={{ textDecoration: "none", color: "black", marginRight: "-158px"  }} className="right-side2">Pricing</Link>
             
             
                 

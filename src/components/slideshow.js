@@ -7,6 +7,7 @@ import CakePicPink from './images/cake-pink.JPG';
 import CakePicTdown from './images/cake-tdown.jpeg';
 import CakePicWed from './images/cake-wedding.jpeg';
 import CakePicXo from './images/cake-xo.jpeg';
+import CakePicLand from './images/landing-cake.jpg';
 
 
 
@@ -28,6 +29,14 @@ const SlideShow = () => {
             className="center-fit"
           />
             </div>
+            <div className="each-slide">
+            
+            <img
+          src={CakePicLand}
+          alt="cake"
+          className="center-fit"
+        />
+          </div>
        
           <div className="each-slide">
             <img
