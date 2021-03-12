@@ -69,13 +69,18 @@ font-family: 'Merriweather', serif;
 
 html {
     background-color: #FC5679;
+
+}
+
+html, body {
+  overscroll-behavior: none;
 }
 
 .how-to{
   width: 100%;
   text-align: center;
   padding-top: 70px;
-  padding-bottom: 30px;
+  padding-bottom: 80px;
 }
 
 .how-title {
@@ -127,6 +132,7 @@ padding-bottom: 60px;
   height: 40px;
     border-radius: 10px;
     border-color: black;
+  border-width: unset;
     padding-left: 10px;
     font-family: 'BenchNine', sans-serif;
     font-family: 'Merriweather', serif;
@@ -140,6 +146,7 @@ padding-bottom: 60px;
   height: 40px;
   border-radius: 10px;
   border-color: black;
+  border-width: unset;
   padding-left: 10px;
   font-family: 'BenchNine', sans-serif;
   font-family: 'Merriweather', serif;
@@ -173,4 +180,5 @@ padding-bottom: 60px;
 
 .button-holder {
   padding-top: 30px;
+  padding-bottom: 80px;
 }

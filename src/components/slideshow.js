@@ -5,7 +5,7 @@ import CakePicBee from './images/cake-bee.jpeg';
 import CakePicFifty from './images/cake-fifty.jpg';
 import CakePicPink from './images/cake-pink.JPG';
 import CakePicTdown from './images/cake-tdown.jpeg';
-import CakePicWed from './images/cake-wedding.jpeg';
+import CakePicWed from './images/cake-wedding.png';
 import CakePicXo from './images/cake-xo.jpeg';
 import CakePicLand from './images/landing-cake.jpg';
 
@@ -24,7 +24,7 @@ const SlideShow = () => {
           <div className="each-slide">
             
               <img
-            src={CakePicWed}
+            src={CakePicLand}
             alt="cake"
             className="center-fit"
           />
@@ -32,7 +32,7 @@ const SlideShow = () => {
             <div className="each-slide">
             
             <img
-          src={CakePicLand}
+          src={CakePicWed}
           alt="cake"
           className="center-fit"
         />
