@@ -2,12 +2,12 @@ import React from 'react';
 import { Slide } from 'react-slideshow-image';
 import 'react-slideshow-image/dist/styles.css'
 import CakePicBee from './images/cake-bee.jpeg';
-import CakePicFifty from './images/cake-fifty.jpg';
-import CakePicPink from './images/cake-pink.JPG';
+import CakePicFifty from './images/cake-fifty.png';
+import CakePicPink from './images/cake-pink.png';
 import CakePicTdown from './images/cake-tdown.jpeg';
 import CakePicWed from './images/cake-wedding.png';
 import CakePicXo from './images/cake-xo.jpeg';
-import CakePicLand from './images/landing-cake.jpg';
+import CakePicLand from './images/landing-cake.png';
 
 
 
